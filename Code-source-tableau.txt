@@ -1,0 +1,72 @@
+            <table class="table table-bordered border-primary">
+                <caption class="text-center"><i>L'équipe des bras cassés</i></caption>
+                <thead>
+                    <tr class="table-primary">
+                        <th>Prénom</th>
+                        <th>Surnom</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Tom</td>
+                        <td>Le dernier arrivant</td>
+                        <td>Le plus jeune de l'équipe, l'agneau donc</td>
+                    </tr>
+                    <tr>
+                        <td>Laurent</td>
+                        <td>Le graphiste</td>
+                        <td>Rare seront les fois où tu le verras sans sa casquette</td>
+                    </tr>
+                    <tr>
+                        <td>Nitha</td>
+                        <td>Je sais pas</td>
+                        <td>Le seul qui représente le continent asiatique</td>
+                    </tr>
+                    <tr>
+                        <td>Fred</td>
+                        <td></td>
+                        <td>Il détient l'anecdote la plus gore du groupe</td>
+                    </tr>
+                    <tr>
+                        <td>Suley</td>
+                        <td>Le chat qui pleure</td>
+                        <td>Toujours se méfier de celui qui parle peu</td>
+                    </tr>
+                    <tr>
+                        <td>Julien</td>
+                        <td>Le presque chinois</td>
+                        <td>"Y a pas moyen, je marche pas 300km sur la lune !"</td>
+                    </tr>
+                    <tr>
+                        <td>Davy</td>
+                        <td>Le commercial</td>
+                        <td>Cherche pas t'as tort</td>
+                    </tr>
+                    <tr>
+                        <td>Théo</td>
+                        <td>Trotman</td>
+                        <td>Le calme qui annonce la tempète</td>
+                    </tr>
+                    <tr>
+                        <td>Mat</td>
+                        <td>Meme man</td>
+                        <td>Toujours la punchline qui faut</td>
+                    </tr>
+                    <tr>
+                        <td>Xav</td>
+                        <td>Bootstrap</td>
+                        <td>L'expert bootstrap de l'équipe</td>
+                    </tr>
+                    <tr>
+                        <td>Kava</td>
+                        <td>Sergent</td>
+                        <td>Le seule militaire qui sait coder</td>
+                    </tr>
+                    <tr>
+                        <td>Martial</td>
+                        <td>L'avant dernier arrivant</td>
+                        <td>Bootstrap ? Never !!!!</td>
+                    </tr>
+                </tbody>  
+            </table>
