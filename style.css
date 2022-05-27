@@ -1,0 +1,55 @@
+
+#Safari {
+    display: none;
+}
+#Edge {
+    display: none;
+}
+#Opera {
+    display: none;
+}
+#bird {
+    display: none;
+    position: absolute;
+    top: 675px;
+    left: 575px;
+    height: 300px;
+    width: 400px;
+}
+#djcat {
+    display: none;
+    position: absolute;
+    height: 200px;
+    width: 500px;
+    left: 800px;
+}
+#crazycat {
+    display: none;
+    position: absolute;
+    top: 550px;
+    right: 550px;
+    width: 300px;
+    height: 250px;
+}
+#moi {
+    display: none;
+    position: absolute;
+    top: 300px;
+}
+body {
+    background-image: "";
+}
+.texts {
+    display: none;
+    color: #FFFFFF;
+    background: #232323;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+}
+#adventuretime {
+    display: none;
+    position: absolute;
+    top: 725px;
+    left: 1175px;
+    width: 300px;
+    height: 250px;
+}
